@@ -23,7 +23,9 @@ echo "Compilación completada."
 
 ### Ejecutar los programas
 ./bin/ej1
+
 ./bin/ej2
+
 ./bin/ej3
 
 ### Requisitos
